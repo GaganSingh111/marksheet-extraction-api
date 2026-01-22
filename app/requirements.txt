@@ -1,0 +1,15 @@
+
+---
+
+### 2) Create **requirements.txt**
+Copy–paste exactly:
+
+```txt
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+pillow
+numpy
+opencv-python-headless
+python-multipart
